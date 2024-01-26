@@ -1,1 +1,1 @@
-git add . && git commit -m "the code Retrieves the index range from a given page and page size" && git push
+git add . && git commit -m "Simple pagination sample." && git push
